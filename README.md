@@ -2,6 +2,14 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
 
+## Clone Repo
+
+Please copy the clone URL and run cmd in the folder where you to clone project `git clone https://github.com/himan005/shopping_Cart.git`.
+
+## Install Dependencies
+
+Now go tp the `shopping_Car` folder and give cmd `npm install` to install the required dependencies.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
